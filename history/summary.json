@@ -4,35 +4,39 @@
     "url": "https://weather.ootr.jp/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/weather.ootr.jp.ico",
     "slug": "weather-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 624,
-    "timeWeek": 755,
-    "timeMonth": 687,
-    "timeYear": 687,
-    "dailyMinutesDown": {}
+    "time": 647,
+    "timeDay": 416,
+    "timeWeek": 687,
+    "timeMonth": 647,
+    "timeYear": 647,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "ImageSlide Converter",
     "url": "https://slide.ootr.jp/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/slide.ootr.jp.ico",
     "slug": "image-slide-converter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 582,
-    "timeWeek": 565,
-    "timeMonth": 564,
-    "timeYear": 564,
-    "dailyMinutesDown": {}
+    "time": 524,
+    "timeDay": 336,
+    "timeWeek": 506,
+    "timeMonth": 524,
+    "timeYear": 524,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   }
 ]
