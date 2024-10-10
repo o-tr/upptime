@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather.ootr.jp.ico",
     "slug": "weather-api",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 644,
-    "timeDay": 482,
-    "timeWeek": 679,
-    "timeMonth": 644,
-    "timeYear": 644,
-    "dailyMinutesDown": {
-      "2024-10-09": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 645,
+    "timeDay": 494,
+    "timeWeek": 683,
+    "timeMonth": 645,
+    "timeYear": 645,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ImageSlide Converter",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/slide.ootr.jp.ico",
     "slug": "image-slide-converter",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 536,
-    "timeDay": 452,
-    "timeWeek": 526,
-    "timeMonth": 536,
-    "timeYear": 536,
-    "dailyMinutesDown": {
-      "2024-10-09": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 548,
+    "timeDay": 492,
+    "timeWeek": 533,
+    "timeMonth": 548,
+    "timeYear": 548,
+    "dailyMinutesDown": {}
   }
 ]
