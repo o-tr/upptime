@@ -4,19 +4,19 @@
     "url": "https://weather.ootr.jp/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/weather.ootr.jp.ico",
     "slug": "weather-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1037,
-    "timeDay": 4765,
-    "timeWeek": 1381,
-    "timeMonth": 1037,
-    "timeYear": 1037,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1017,
+    "timeDay": 3384,
+    "timeWeek": 1312,
+    "timeMonth": 1017,
+    "timeYear": 1017,
     "dailyMinutesDown": {
-      "2024-10-15": 2
+      "2024-10-15": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://slide.ootr.jp/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/slide.ootr.jp.ico",
     "slug": "image-slide-converter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 622,
-    "timeWeek": 505,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 536,
+    "timeDay": 588,
+    "timeWeek": 510,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 4
     }
   }
 ]
