@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 719,
+    "time": 811,
+    "timeDay": 489,
     "timeWeek": 549,
-    "timeMonth": 848,
-    "timeYear": 819,
+    "timeMonth": 844,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/slide.ootr.jp.ico",
     "slug": "image-slide-converter",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 598,
-    "timeDay": 817,
-    "timeWeek": 654,
-    "timeMonth": 602,
-    "timeYear": 598,
-    "dailyMinutesDown": {
-      "2024-11-02": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 595,
+    "timeDay": 767,
+    "timeWeek": 652,
+    "timeMonth": 598,
+    "timeYear": 595,
+    "dailyMinutesDown": {}
   }
 ]
