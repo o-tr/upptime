@@ -22,7 +22,7 @@
     "url": "https://slide.ootr.jp/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/slide.ootr.jp.ico",
     "slug": "image-slide-converter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 709,
     "timeMonth": 651,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   }
 ]
