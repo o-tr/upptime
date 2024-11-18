@@ -22,18 +22,19 @@
     "url": "https://slide.ootr.jp/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/slide.ootr.jp.ico",
     "slug": "image-slide-converter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 613,
-    "timeDay": 504,
-    "timeWeek": 590,
-    "timeMonth": 658,
+    "timeDay": 571,
+    "timeWeek": 596,
+    "timeMonth": 657,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2024-11-18": 0,
       "2024-11-13": 48
     }
   }
