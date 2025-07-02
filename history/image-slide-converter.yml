@@ -1,7 +1,7 @@
 url: https://slide.ootr.jp/api/healthz
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2025-07-01T23:20:56.065Z
+status: down
+code: 502
+responseTime: 10518
+lastUpdated: 2025-07-02T11:58:01.690Z
 startTime: 2024-10-01T03:30:51.757Z
 generator: Upptime <https://github.com/upptime/upptime>
