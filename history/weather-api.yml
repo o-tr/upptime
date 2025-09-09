@@ -1,7 +1,7 @@
 url: https://weather.ootr.jp/healthz
-status: down
-code: 502
-responseTime: 25616
-lastUpdated: 2025-09-09T05:59:59.762Z
+status: up
+code: 200
+responseTime: 623
+lastUpdated: 2025-09-09T06:28:15.142Z
 startTime: 2024-10-01T03:30:50.901Z
 generator: Upptime <https://github.com/upptime/upptime>
